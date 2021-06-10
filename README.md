@@ -1,6 +1,11 @@
 # Python Workshop Series Installation Instructions
 Installation instructions for Python and dependencies for the JHU Data Service Python Workshop Series
 
+Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research packages individually can be a bit difficult, so for the JHU Python workshop series we recommend Anaconda, an all-in-one installer.
+
+Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., 3.6 is fine).
+
+We will teach Python using the Jupyter Notebook, a programming environment that runs in a web browser (Jupyter Notebook will be installed by Anaconda). For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not). 
 
 # Installation Instructions by Operating System
 
