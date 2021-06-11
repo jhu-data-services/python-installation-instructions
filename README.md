@@ -14,14 +14,14 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 
 <a name="win"/>
 
-# Windows
+## Windows
 
 <a name="mac"/>
 
-# macOS
+## macOS
 
 <a name="linux"/>
 
-# Linux
+## Linux
 
 This documentation is licensed under CC0 1.0 Universal [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
