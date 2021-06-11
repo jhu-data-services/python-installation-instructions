@@ -69,8 +69,16 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-license-agreement.png?token=AA3SGJYE6DCXCTS6NTCDTB3AZTYBC" alt="Anaconda macOS license agreement consent" width="450">
-
+8. The installation window will now install Anaconda on your disk. Press "Install" to begin the installation process.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-location.png?token=AA3SGJZ42D353MG3NDS6XLLAZTYXW" alt="Anaconda macOS installation" width="450">
 <a name="linux"/>
+9. Finally the installation will prompt you to install PyCharm. Press "Continue" to finish the installation without installing PyCharm.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-pycharm.png?token=AA3SGJZEVDPV5QP4Y2QOV2TAZTZHS" alt="Anaconda macOS PyCharm prompt" width="450">
+10. Your installation will complete. To finish your installation press "Close" on the final installation window.
 
 ## Linux Installation Instructions
 
