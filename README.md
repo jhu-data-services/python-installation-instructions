@@ -49,6 +49,10 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-filelocation.png?token=AA3SGJ6HOE2ZRPEEKTLNEBDAZTTVQ" alt="Anaconda macOS .pkg installer start" width="600">
+3. You will receive a security prompt letting you know that the Anaconda installer will check your computer to see if it can be installed. Press "Continue" to proceed with the installation.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-safety.png?token=AA3SGJ5HLSSKIYO7UJNTXD3AZTUNQ" alt="Anaconda macOS .pkg installer start" width="600">
 
 <a name="linux"/>
 
