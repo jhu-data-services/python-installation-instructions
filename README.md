@@ -86,7 +86,7 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 2. Navigate to the installer location using your preferred terminal emulator. If your default folder is `Downloads` then you can use the command `cd ~/Downloads`.
    <br/>
    <br/>
-   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-download.png?token=AA3SGJ4H3Q52XM74DRXF7NTAZUA4Q" alt="Linux installer path" width="550">
-3. 
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-download.png?token=AA3SGJ4H3Q52XM74DRXF7NTAZUA4Q" alt="Linux installer path" width="650">
+3. Run the installation shell script using the command `./Anaconda3-2021.05-Linux-x86_64.sh`. You will be prompted to review a license agreement, press <kbd>Enter</kbd> to continue. 
 
 This documentation is licensed under CC0 1.0 Universal [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
