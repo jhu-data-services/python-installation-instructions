@@ -88,5 +88,17 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-download.png?token=AA3SGJ4H3Q52XM74DRXF7NTAZUA4Q" alt="Linux installer path" width="650">
 3. Run the installation shell script using the command `./Anaconda3-2021.05-Linux-x86_64.sh`. You will be prompted to review a license agreement, press <kbd>Enter</kbd> to continue. 
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-install-start.png?token=AA3SGJ34PCLCALQTI66OZN3AZUCMG" alt="Linux installer start" width="650">
+4. A license will be displayed in the terminal window. Review the license, and pan down using either <kbd>Enter</kbd> to move a line at a time, or <kbd>Page Down</kbd> to move a page at a time.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-license.png?token=aa3sgj25t2hqou2ytf5sbhtazucpk" alt="linux license review" width="650">
+5. When you have reached the end of the license, type `yes` and press <kbd>Enter</kbd> if you agree with the terms of the license. 
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-license-accept.png?token=AA3SGJYAWPQKWVZEKHYNYV3AZUCYQ" alt="Linux license agreement" width="650">
+   
 
 This documentation is licensed under CC0 1.0 Universal [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
