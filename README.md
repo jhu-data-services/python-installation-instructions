@@ -34,8 +34,12 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://github.com/jhu-data-services/python-installation-instructions/blob/main/images/windows-path.png" alt="Anaconda Windows Installation Privileges" width="450">
-
+7. At the Advanced Installation Options window, ensure that "Add Anaconda3 to my PATH environment variable" is not selected, and "Register Anaconda3 as my default Python 3.8" is selected. Then select "Install". If you have an existing Python installation that you are currently using, then do not select "Register Anaconda3 as my default Python 3.8", as this will replace your current Python version as the default. 
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-env-variables.png?token=AA3SGJ3M5GJGBHROK5NQWK3AZS4O4" alt="Anaconda Windows Advanced Installation Options" width="450">
 <a name="mac"/>
+8. Finally, press "Next" on the following pop-up dialog boxes. After a successful installation you will see the “Thanks for installing Anaconda” dialog box. You may then press the "Finish" button. This concludes your Anaconda Python installation.
 
 ## macOS
 
