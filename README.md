@@ -61,7 +61,15 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-readme.png?token=AA3SGJ6IOD5J3LDOR3BFTRDAZTV7Q" alt="Anaconda macOS .pkg installer start" width="450">
-6. 
+6. Review the licensing terms, and then select "Continue". 
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-license.png?token=AA3SGJ7DVHSA33P7VI7RGTDAZTX2C" alt="Anaconda macOS installer license" width="450">
+7. A dialog box will pop-up asking if you accept the terms of the license agreement. If you do, press "Agree".
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-license-agreement.png?token=AA3SGJYE6DCXCTS6NTCDTB3AZTYBC" alt="Anaconda macOS license agreement consent" width="450">
+
 <a name="linux"/>
 
 ## Linux Installation Instructions
