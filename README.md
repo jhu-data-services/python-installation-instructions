@@ -38,8 +38,9 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-env-variables.png?token=AA3SGJ3M5GJGBHROK5NQWK3AZS4O4" alt="Anaconda Windows Advanced Installation Options" width="450">
-<a name="mac"/>
 8. Finally, press "Next" on the following pop-up dialog boxes. After a successful installation you will see the “Thanks for installing Anaconda” dialog box. You may then press the "Finish" button. This concludes your Anaconda Python installation.
+
+<a name="mac"/>
 
 ## macOS Installation Instructions
 
