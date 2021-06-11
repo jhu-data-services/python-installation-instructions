@@ -43,6 +43,13 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 
 ## macOS Installation Instructions
 
+
+1. Download the [macOS Anaconda installer](https://repo.anaconda.com/archive/Anaconda3-2021.05-MacOSX-x86_64.pkg). 
+2. Double click the .pkg installer in your Downloads folder.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-filelocation.png?token=AA3SGJ6HOE2ZRPEEKTLNEBDAZTTVQ" alt="Anaconda macOS .pkg installer start" width="450">
+
 <a name="linux"/>
 
 ## Linux Installation Instructions
