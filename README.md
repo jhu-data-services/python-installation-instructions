@@ -26,7 +26,10 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-license.png?token=AA3SGJ4V6HEKY64VG4RNCU3AZSZCK" alt="Anaconda Windows License Agreement" width="450">
-
+5. Ensure the Install for: "Just Me (recommended)" radio button is selected, then press "Next". 
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-privileges.png?token=AA3SGJ2BLXNNCZ4PRXQOQ7TAZS2LI" alt="Anaconda Windows Installation Privileges" width="450">
 <a name="mac"/>
 
 ## macOS
