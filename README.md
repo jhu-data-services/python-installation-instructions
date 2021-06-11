@@ -1,4 +1,4 @@
-# Python Workshop Series Installation Instructions
+# Python Workshop Series Setup
 
 For the JHU Python workshop series we recommend [Anaconda](https://www.anaconda.com/products/individual), an all-in-one installer for Python. Anaconda Python includes a user interface to make it easy to launch Python applications and manage packages and environments without using command-line commands.
 
@@ -14,7 +14,7 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 
 <a name="win"/>
 
-## Windows
+## Windows Installation Instructions
 
 1. Download the [Windows Anaconda installer](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe). 
 2. Double click the installer .exe to to launch.
@@ -41,10 +41,10 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 <a name="mac"/>
 8. Finally, press "Next" on the following pop-up dialog boxes. After a successful installation you will see the “Thanks for installing Anaconda” dialog box. You may then press the "Finish" button. This concludes your Anaconda Python installation.
 
-## macOS
+## macOS Installation Instructions
 
 <a name="linux"/>
 
-## Linux
+## Linux Installation Instructions
 
 This documentation is licensed under CC0 1.0 Universal [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
