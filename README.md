@@ -99,6 +99,18 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-license-accept.png?token=AA3SGJYAWPQKWVZEKHYNYV3AZUCYQ" alt="Linux license agreement" width="650">
-   
+6. The installer will then notify you that Anaconda3 will be installed into your home folder. Press <kbd>Enter</kbd> to accept.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-path.png?token=AA3SGJ4WPHTMOQFBTCUDFJ3AZUDCI" alt="Linux install path" width="650">
+7. The installation process will begin. This will take a few minutes, this might be a good time for a cup of coffee (or tea if that's your thing). Once the installer is done, it will ask if you would like to initialize Anaconda3. Type `yes` and press <kbd>Enter</kbd> to do so. This will allow you to run Anaconda commands directly from your terminal.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-conda-init.png?token=AA3SGJ2J5XDJY44D3VSVHATAZUDPY" alt="Linux conda initialization" width="650">
+8. After Anaconda as been initialized you will receive a prompt similar to that below. Your installation is complete! Restarting your terminal will allow the changes to take effect and you will then be able to run Anaconda commands directly from the terminal.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/linux-complete.png?token=AA3SGJYGWHK77IAYMVI3Q4TAZUDOM" alt="Linux installation complete" width="650">
+
 
 This documentation is licensed under CC0 1.0 Universal [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
