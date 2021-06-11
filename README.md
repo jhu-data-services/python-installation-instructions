@@ -30,6 +30,11 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
    <br/>
    <br/>
    <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-privileges.png?token=AA3SGJ2BLXNNCZ4PRXQOQ7TAZS2LI" alt="Anaconda Windows Installation Privileges" width="450">
+6. Select a destination folder to install Anaconda, then press the "Next" button. You should not need to change the default path.
+   <br/>
+   <br/>
+   <img src="https://github.com/jhu-data-services/python-installation-instructions/blob/main/images/windows-path.png" alt="Anaconda Windows Installation Privileges" width="450">
+
 <a name="mac"/>
 
 ## macOS
