@@ -18,8 +18,8 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 
 1. Download the [Windows Anaconda installer](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe). 
 2. Double click the installer .exe to to launch.
-3. Click next on the setup window.   
-![Anaconda Windows Setup](https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-setup.png?token=AA3SGJ3BPVAUZFIZOU7A2W3AZSQDM?s=100)
+3. Click next on the setup window.
+<img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-setup.png?token=AA3SGJ3BPVAUZFIZOU7A2W3AZSQDM" alt="Anaconda Windows Setup" width="150">
 
 <a name="mac"/>
 
