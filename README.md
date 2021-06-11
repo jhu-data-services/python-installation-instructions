@@ -52,8 +52,11 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 3. You will receive a security prompt letting you know that the Anaconda installer will check your computer to see if it can be installed. Press "Continue" to proceed with the installation.
    <br/>
    <br/>
-   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-safety.png?token=AA3SGJ5HLSSKIYO7UJNTXD3AZTUNQ" alt="Anaconda macOS .pkg installer start" width="600">
-
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-safety.png?token=AA3SGJ5HLSSKIYO7UJNTXD3AZTUNQ" alt="Anaconda macOS .pkg installer start" width="500">
+4. Now the Anaconda installer will begin. On the Welcome window select "Continue" to proceed with the installation.
+   <br/>
+   <br/>
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-intro.png?token=AA3SGJZMKI4N72J5ZYE4F43AZTUM2" alt="Anaconda macOS .pkg installer start" width="500">
 <a name="linux"/>
 
 ## Linux Installation Instructions
