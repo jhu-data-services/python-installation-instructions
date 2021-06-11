@@ -48,7 +48,7 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 2. Double click the .pkg installer in your Downloads folder.
    <br/>
    <br/>
-   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-filelocation.png?token=AA3SGJ6HOE2ZRPEEKTLNEBDAZTTVQ" alt="Anaconda macOS .pkg installer start" width="450">
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/mac-filelocation.png?token=AA3SGJ6HOE2ZRPEEKTLNEBDAZTTVQ" alt="Anaconda macOS .pkg installer start" width="600">
 
 <a name="linux"/>
 
