@@ -16,6 +16,10 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 
 ## Windows
 
+1. Download the [Windows Anaconda installer](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe). 
+2. Double click the installer .exe to to launch.
+3. 
+
 <a name="mac"/>
 
 ## macOS
