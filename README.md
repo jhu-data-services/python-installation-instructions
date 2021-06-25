@@ -21,7 +21,7 @@ We will teach Python using [Jupyter Notebooks](https://jupyter.org/), a programm
 3. Click next on the setup window.
    <br/>
    <br/>
-   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-setup.png?raw=true" alt="Anaconda Windows Setup" width="450">
+   <img src="https://raw.githubusercontent.com/jhu-data-services/python-installation-instructions/main/images/windows-setup.png" alt="Anaconda Windows Setup" width="450">
 4. Review the licensing terms and select "I Agree" if you accept the terms of the agreement. 
    <br/>
    <br/>
